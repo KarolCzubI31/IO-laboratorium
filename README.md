@@ -4,4 +4,4 @@ Gra warcaby dla dwóch graczy napisana w języku C++ na ekran dotykowy płytki S
 Aby urochomić grę wystarczy zimportować plik intflash.hex na płytkę używając np: STM32 ST-Link Utility.
 Gra była stworzona za pomocą touchGFXa, dlatego, aby ją edytować należy pobrać touchGFXa z: http://touchgfx.com/try-touchgfx/evaluation/. Następnie po utworzeniu nowego projektu dodać do niego folder assets oraz uruchomić solucję i podmienić kod znajdujący się w plikach odpowiadających nazwą plikom wrzuconym przeze mnie.
 
-Dodany krótki film pokazujący działanie gry na symulatorze.
+Dodany krótki film pokazujący działanie gry na symulatorze. Partia tam ukazana nie jest nagrana od początku, by w jak najkrótszym czasie zademonstrować działanie królowek.
